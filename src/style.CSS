@@ -62,14 +62,20 @@ button {
 }
 .btn-success {
   color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #fa1c1c;
+  border-color: #000000;
 }
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #0cec2a;
+  border-color: #000000;
 }
 .btn {
   cursor: pointer;
+}
+
+a.githubLink {
+  display: block;
+  margin: 0;
+  text-align: center;
 }
